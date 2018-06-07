@@ -1,0 +1,77 @@
+.row{
+	clear: both;
+	text-align: left;
+	color: 
+
+}
+
+.box{
+	width: 100%;
+	height: 200%;
+	margin: 50px; 
+	padding: 5px;
+	float:left; 
+	background-color:#a09898;
+	font-family:Times New Roman;
+}
+.box1{
+	width: 90%;
+	height: 200%;
+	margin: 45px; 
+	padding: 30px;
+	float:left; 
+	background-color:#edeaea; 
+	font-family:Arial;
+
+}
+.box2{
+	width: 90%;
+	height: 180%;
+	margin: 1%;
+	padding: 50px;
+	float: left;
+	background-color:white;
+	font-family:Arial;
+
+}
+ img.responsive{
+	text-align: center; 
+	border-radius: 50%; 
+	position:absolute;
+	width: 8%;
+	left: 40%;
+	top: -15px;
+
+} 
+
+.flow{
+	clear: both;
+}
+.cell{
+	border: 25%;
+} 
+
+.cell-big{
+	float: left;
+	width: 50%;
+}
+.cell-small{
+	float: left;
+	width: 100%; 
+
+}
+.li{
+	width: 10px;
+	height: 10px;
+	color: black;
+	list-style: none;
+}
+ul{ list-style: none; 
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+label{ color:blue;
+}
+input[type = "radio"]{ display:none;}
